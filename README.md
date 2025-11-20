@@ -30,7 +30,8 @@
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=atlassian-confluence&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
 
-I’m a final-year **NTU Electrical & Electronic Engineering** student specialising in **Computing & Intelligent Systems**. I build scalable software, cloud-native pipelines, and ML‑powered applications.
+A final-year EEE student at NTU specialising in Computing & Intelligent Systems.
+Highly driven with a nothing-is-impossible attitude, I build scalable software, cloud-native pipelines, and ML-powered applications that turn ideas into real-world impact.
 
 I'm passionate about:
 
@@ -75,7 +76,6 @@ Cross-platform mobile app supporting scientific operations, with ChatGPT-powered
 
 * Building a **cloud analytics pipeline** with Azure + FastAPI
 * Developing a **Flutter calculator app** with AI-powered reasoning
-* Expanding my GitHub with more structured, production-ready projects
 
 ---
 
