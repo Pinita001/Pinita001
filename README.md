@@ -41,10 +41,6 @@ Azure-ready ETL pipeline with FastAPI microservices and a Streamlit analytics da
 
 Cross-platform mobile app supporting scientific operations, with ChatGPT-powered natural language queries.
 
-### 📌 **Gesture-Controlled Drones using ML**
-
-Real-time OpenCV + TensorFlow system with 85%+ gesture recognition accuracy.
-
 ---
 
 ## 📈 **Currently Working On**
