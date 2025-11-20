@@ -55,8 +55,6 @@ Cross-platform mobile app supporting scientific operations, with ChatGPT-powered
 
 * 💼 LinkedIn: [linkedin.com/in/pinitathavamani](https://www.linkedin.com/in/pinitathavamani)
 * 📧 Email: **[thavamanipinita@gmail.com](mailto:thavamanipinita@gmail.com)**
-* 📄 Resume: *[Add link once uploaded]*
-
 ---
 
 ## 💡 **Fun Fact**
