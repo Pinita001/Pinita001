@@ -16,7 +16,6 @@
 
 ### ☁️ Web & Cloud
 ![AWS](https://img.shields.io/badge/AWS-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Full-Stack](https://img.shields.io/badge/Full-Stack-008080?style=flat)
