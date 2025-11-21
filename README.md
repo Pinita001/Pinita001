@@ -64,7 +64,7 @@ A full-stack reservation platform handling real reservations, secure auth, and o
 
 ### 📌 **Cloud-Based Sales & Intelligence Platform** *(In Progress)*
 
-Azure-ready ETL pipeline with FastAPI microservices and a Streamlit analytics dashboard.
+AWS-ready ETL pipeline with FastAPI microservices and a Streamlit analytics dashboard.
 
 ### 📌 **Scientific Calculator App with AI Integration (Flutter)** *(In Progress)*
 
