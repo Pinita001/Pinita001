@@ -15,6 +15,7 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
 ### ☁️ Web & Cloud
+![AWS](https://img.shields.io/badge/AWS-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -36,7 +37,7 @@ Highly driven with a nothing-is-impossible attitude, I build scalable software, 
 I'm passionate about:
 
 * 🚀 Full‑stack development (web + mobile)
-* ☁️ Cloud engineering (Azure)
+* ☁️ Cloud engineering (AWS first, learning Azure)
 * 📊 Data engineering & analytics pipelines
 * 🤖 Applied AI & computer vision
 * 🧩 Solving real problems with clean, impactful engineering
@@ -48,7 +49,7 @@ I'm passionate about:
 **Languages:** Python, JavaScript, SQL, PHP, C/C++, Dart (Flutter)
 **Web & App:** React, Node.js, PHP, MySQL, HTML/CSS, Tailwind, Flutter
 **Backend/API:** FastAPI, REST APIs, Streamlit
-**Cloud:** Azure (ETL, App Service), CI/CD (GitHub Actions)*
+**Cloud:** AWS (primary) – EC2, Lambda, S3, IAM, API Gateway, CI/CD (GitHub Actions)*
 **Data/ML:** Pandas, NumPy, TensorFlow, OpenCV
 **Tools:** Git/GitHub, Confluence, LTspice, KiCad
 
