@@ -11,8 +11,8 @@ Specialising in *Computing & Intelligent Systems*
 
 I turn messy workflows into structured, scalable systems.
 
-My work sits at the intersection of **engineering, analytics, and business impact** —  
-bridging stakeholders and technical teams to drive meaningful outcomes.
+My work sits at the intersection of **engineering, analytics, and business impact**  
+Bridging stakeholders and technical teams to drive meaningful outcomes.
 
 I care about:
 - Translating stakeholder needs into technical solutions  
