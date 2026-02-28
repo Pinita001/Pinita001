@@ -89,45 +89,56 @@ Building toward **Product, Consulting & Transformation** roles where I can:
 ---
 
 ## 📚 Currently Strengthening
-Azure Fundamentals • Docker basics  
+AWS Fundamentals • Docker basics  
 
 ---
 I build systems that connect technical execution to business outcomes.
 ---
 
-## 🛠 **Featured Projects**
+---
 
-### 📌 **Sydney Opera House Booking System** — *Full-Stack Web App*
+## 🛠 Featured Projects
 
-A full-stack reservation platform handling real reservations, secure auth, and optimised backend logic.
+### 📌 Sydney Opera House Booking System  
+**Full-Stack Web Application**
 
-### 📌 **Cloud-Based Sales & Intelligence Platform** *(In Progress)*
-
-AWS-ready ETL pipeline with FastAPI microservices and a Streamlit analytics dashboard.
-
-### 📌 **Scientific Calculator App with AI Integration (Flutter)** *(In Progress)*
-
-Cross-platform mobile app supporting scientific operations, with ChatGPT-powered natural language queries.
+A production-style reservation platform handling real bookings, secure authentication, and optimised backend logic.  
+Designed with structured database relationships and scalable API architecture.
 
 ---
 
-## 📈 **Currently Working On**
+### 📌 Cloud-Based Sales & Intelligence Platform *(In Progress)*  
+**AWS • FastAPI • ETL • Streamlit**
 
-* Building a **cloud analytics pipeline** with Azure + FastAPI
-* Developing a **Flutter calculator app** with AI-powered reasoning
-
----
-
-## 🌐 **Find Me Online**
-
-* 💼 LinkedIn: [linkedin.com/in/pinitathavamani](https://www.linkedin.com/in/pinitathavamani)
-* 📧 Email: **[thavamanipinita@gmail.com](mailto:thavamanipinita@gmail.com)**
----
-
-## 💡 **Fun Fact**
-
-I love building systems that blend software, hardware, and intelligence — whether it's drones you can control with your hands or apps that understand natural language.
+Designing a cloud-ready analytics pipeline with modular FastAPI microservices and a stakeholder-facing dashboard.  
+Focused on translating raw business data into actionable operational insights.
 
 ---
 
+### 📌 Scientific Calculator with AI Integration *(In Progress)*  
+**Flutter • AI Integration**
+
+Cross-platform mobile application supporting scientific operations, enhanced with AI-powered natural language query interpretation for contextual problem solving.
+
+---
+
+## 📈 Currently Building
+
+- A scalable **cloud analytics pipeline** (AWS + FastAPI)  
+- A cross-platform **AI-enhanced Flutter application**
+
+---
+
+## 🌐 Connect With Me
+
+💼 LinkedIn: [linkedin.com/in/pinitathavamani](https://www.linkedin.com/in/pinitathavamani)  
+📧 Email: [thavamanipinita@gmail.com](mailto:thavamanipinita@gmail.com)
+
+---
+
+## 💡 Beyond Code
+
+I enjoy building systems that integrate software, hardware, and intelligence that is from interactive drone control systems to applications that interpret natural language.
+
+---
 If you're reading this — thanks for stopping by! Always happy to connect, collaborate, or chat about engineering, cloud, AI, or cool tech 🤝
